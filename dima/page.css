@@ -1,0 +1,90 @@
+h1{
+text-align: left;
+font-family: verdana;
+}
+
+h2{
+text-align: left;
+font-family: verdana;
+}
+
+h3{
+text-align: left;
+font-family: verdana;
+}
+
+p{
+font-family: verdana;
+}
+
+p.center{
+text-align: center;
+font-family: verdana;
+}	
+
+p.right{
+text-align: right;
+font-family: verdana;
+}	
+
+p.left{
+text-align: left;
+font-family: verdana;
+}	
+
+p.sm{
+font-size: 70%;
+font-family: verdana;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}	
+
+p.rsm{
+text-align: right;
+font-size: 70%;
+font-family: verdana;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}	
+
+p.csm{
+text-align: center;
+font-size: 70%;
+font-family: verdana;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}	
+
+
+
+img.middle{
+vertical-align:middle;
+}
+
+p.cimg{
+text-align:center;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}
+
+p.rimg{
+text-align:right;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}
+
+p.limg{
+text-align:left;
+margin-top:0px;
+margin-bottom:0px;
+padding:0px;
+}
+
+a.small{
+	font-size: 70%;
+}
