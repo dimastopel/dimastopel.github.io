@@ -4,7 +4,7 @@ email:       dima@stopel.org
 author:      Dima Stopel
 description: "Dima Stopel's personal site."
 baseurl:     ""
-url:         "http://dimastopel.github.io/"
+url:         "http://dima.stopel.org/"
 date_format: "%b %-d, %Y"
 
 # Google services
