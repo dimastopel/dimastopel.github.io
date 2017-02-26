@@ -1,20 +1,11 @@
 ---
 layout: page
-title: About Pixyll
+title: About me
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+My name is Dima Stopel. I am a VP of R&D and co-founder of [Twistlock](https://www.twistlock.com). Previously I was working at Microsoft, Deutsche Telekom, and couple of other companies. 
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I am a software engineeer and a geek. I am mostly interested in security, cryptography, machine learning, and math. 
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
