@@ -92,16 +92,16 @@ text:
     related_posts:  'Related Posts'
   index:
     coming_soon: 'Coming soon...'
-  #contact:
-  #  email:    'Email Address'
-  #  content:  'What would you like to say?'
-  #  subject:  'New submission!'
-  #  submit:   'Say Hello'
-  #  ajax:
-  #    sending:  'sending..'
-  #    sent:     'Message sent!'
-  #    error:    'Error!'
-  #thanks: 'Thanks for contacting me. I will reply as soon as possible.'
+  contact:
+    email:    'Email Address'
+    content:  'What would you like to say?'
+    subject:  'New submission!'
+    submit:   'Say Hello'
+    ajax:
+      sending:  'sending..'
+      sent:     'Message sent!'
+      error:    'Error!'
+  thanks: 'Thanks for contacting me. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
