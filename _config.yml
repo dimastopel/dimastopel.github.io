@@ -1,10 +1,10 @@
 # Site settings
-title:       Dima Stopel
+title:       Dima Stopel, things I learned. 
 email:       dima@stopel.org
 author:      Dima Stopel
-description: "Dima Stopel's personal site."
+description: "Dima Stopel's personal blog."
 baseurl:     ""
-url:         "http://dima.stopel.org/"
+url:         "https://dima.stopel.org/"
 date_format: "%b %-d, %Y"
 
 # Google services
