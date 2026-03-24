@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Toilet subscription
-date:       2026-03-16
+date:       2026-03-21
 categories: general
 published: false
 ---
